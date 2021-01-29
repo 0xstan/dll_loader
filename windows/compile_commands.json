@@ -1,0 +1,13 @@
+[
+    {
+        "arguments": [
+            "x86_64-w64-mingw32-gcc",
+            "-c",
+            "-o",
+            "loader.exe",
+            "loader.c"
+        ],
+        "directory": "/home/sar/src/project/dll_loader/windows",
+        "file": "loader.c"
+    }
+]

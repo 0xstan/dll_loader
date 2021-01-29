@@ -1,0 +1,14 @@
+[
+    {
+        "arguments": [
+            "g++", 
+            "-c", 
+            "-std=c++17", 
+            "-o", 
+            "loader", 
+            "entry.cpp"
+        ], 
+        "directory": "/home/stan/src/project/dll_loader/linux/loader", 
+        "file": "entry.cpp"
+    }
+]
